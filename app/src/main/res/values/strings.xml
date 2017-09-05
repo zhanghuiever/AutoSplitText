@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AutoSplitText</string>
+    <string name="text">本文地址http://www.cnblogs.com/goagent/p/5159125.html本文地址啊本文。地址。啊http://www.cnblogs.com/goagent/p/5159125.html
+        很久以前写过两篇Fragment的介绍，主要就是介绍其功能：Android Fragment
+        真正的完全解析（上）和Android Fragment 真正的完全解析（下） 有兴趣的可以凑合看下。之前的博客属于怎么使用Fragment，本文目标教你如何用好Fragment，即Fragment的一些使用的建议，（多数内容来自：Android programming the big nerd ranch guide 一书，直接百度，你懂的，虽然是基础书籍，还是很值得一看的）。</string>
+</resources>
